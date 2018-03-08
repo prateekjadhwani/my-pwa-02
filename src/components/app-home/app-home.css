@@ -1,0 +1,22 @@
+.app-home {
+  padding: 0;
+  display: flex;
+  background: #f4f7f9;
+  height: 100vh;
+}
+
+.app-home > div {
+  border: 1px solid #f0f2f3;
+}
+
+.app-home .app-home__folders {
+  width: 15%;
+}
+
+.app-home .app-home__main-information {
+  width: 20%;
+}
+
+.app-home .app-home__main-content {
+  width: 65%;
+}
