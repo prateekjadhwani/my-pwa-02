@@ -78,7 +78,7 @@ self.__precacheManifest = [
     "revision": "ffeb531beb695e80060aab6c5a79b611"
   },
   {
-    "url": "my-pwa-02/index.html",
+    "url": "index.html",
     "revision": "f4a8cb46e3bafb0434ccfa64670e3aa8"
   },
   {
