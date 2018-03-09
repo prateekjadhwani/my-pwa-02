@@ -30,7 +30,7 @@ self.__precacheManifest = [
     "revision": "b96ad6e1e0b755c8cd45e6aec40bca25"
   },
   {
-    "url": "my-pwa-02/build/app.js",
+    "url": "build/app.js",
     "revision": "d5be025c2341ad4056799da17e6e8e73"
   },
   {
