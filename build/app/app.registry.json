@@ -3,7 +3,7 @@
   "fsNamespace": "app",
   "loader": "../app.js",
   "global": "app.global.js",
-  "core": "app.5x5ulrty.js",
+  "core": "app.t9xdltoj.js",
   "corePolyfilled": "app.r3bljive.js",
   "components": {
     "app-home": {

@@ -26,16 +26,12 @@ self.__precacheManifest = [
     "revision": "d2f619d796fbe8bed6200da2691aa5b6"
   },
   {
-    "url": "my-pwa-02/assets/icon/icon.png",
+    "url": "assets/icon/icon.png",
     "revision": "b96ad6e1e0b755c8cd45e6aec40bca25"
   },
   {
     "url": "build/app.js",
-    "revision": "d5be025c2341ad4056799da17e6e8e73"
-  },
-  {
-    "url": "build/app/app.5x5ulrty.js",
-    "revision": "aecc0dcafadb244849a233d9c8f70cd3"
+    "revision": "63caad35a5a000166eaf6df6d73ddd2c"
   },
   {
     "url": "build/app/app.global.js",
@@ -47,7 +43,11 @@ self.__precacheManifest = [
   },
   {
     "url": "build/app/app.registry.json",
-    "revision": "65b44c6988cdcb5ea52247543c1cf39e"
+    "revision": "e8192c451e015aeb6fd262d5f22e5482"
+  },
+  {
+    "url": "build/app/app.t9xdltoj.js",
+    "revision": "99617a4db29652aecfb492168a143130"
   },
   {
     "url": "build/app/cidhnfwg.es5.js",
@@ -75,15 +75,15 @@ self.__precacheManifest = [
   },
   {
     "url": "host.config.json",
-    "revision": "ffeb531beb695e80060aab6c5a79b611"
+    "revision": "fbf1becd2264f4f52ad01f24a307b58a"
   },
   {
     "url": "index.html",
-    "revision": "f4a8cb46e3bafb0434ccfa64670e3aa8"
+    "revision": "635acc48d739d992f1109f5d225a6b3a"
   },
   {
     "url": "manifest.json",
-    "revision": "e33a9f39d3f8b2c46d13156237b4e0ae"
+    "revision": "0c129721ede7cd25304ebdd238d774ad"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
